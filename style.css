@@ -1,0 +1,52 @@
+.card {
+	margin: 20px;
+	max-height: 1000px;
+
+	}
+
+form{
+	margin-bottom: 0;
+}
+.card img {
+	max-height: 400px;
+}
+.jumbotron {
+	background-image: url(https://image.freepik.com/free-photo/library-with-books_1063-98.jpg);
+	color: #00B048;
+}
+.btn a {
+	color: #ccc;
+	text-decoration: none;
+}
+.form-signin {
+	margin: 15%;
+}
+.form-signin label {
+	width: 60%;
+}
+.signup {
+	 background-color: #eee;
+
+}
+.signup h1 {
+	color: #00B048;
+}
+.all {
+	margin-top: 50px;
+}
+.card .mb-3 {
+	width: 400px;
+}
+.carousel-inne img {
+	height: 400px;
+}
+#wtext{
+	text-align: center;
+	margin-top: 25px;
+}
+#signout {
+	color: #00B048;
+}
+.nav-item a{
+	color: #00B048;
+}
